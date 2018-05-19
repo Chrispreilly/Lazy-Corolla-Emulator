@@ -4,11 +4,8 @@ Fingerprint as a corolla in openpilot with 1 CAN ID
 Setup:
 
 Arduino UNO
-
 MCP2515 CAN Board with 16mhz oscillator
-
 White Panda
-
 OnePlus3
 
 
